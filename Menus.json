@@ -1,0 +1,98 @@
+[{
+    "_id": {
+      "$oid": "6162b54b11c8d8dc33a5bcfc"
+    },
+    "name": "Paneer",
+    "image": "Paneer.png",
+    "price": "129",
+    "size": "Full"
+  },{
+    "_id": {
+      "$oid": "6162b65011c8d8dc33a5bcfd"
+    },
+    "name": "Shahi Paneer",
+    "image": "ShahiPaneer.png",
+    "price": "155",
+    "size": "Full"
+  },{
+    "_id": {
+      "$oid": "6162b6c211c8d8dc33a5bcfe"
+    },
+    "name": "Sev Tamatar",
+    "image": "SevTamatar.png",
+    "price": "89",
+    "size": "Full"
+  },{
+    "_id": {
+      "$oid": "6162b73711c8d8dc33a5bd00"
+    },
+    "name": "Daal Fry",
+    "image": "DaalFry.png",
+    "price": "85",
+    "size": "Full"
+  },{
+    "_id": {
+      "$oid": "6162b78e11c8d8dc33a5bd01"
+    },
+    "name": "Bhindi",
+    "image": "Bhindi.png",
+    "price": "75",
+    "size": "Full"
+  },{
+    "_id": {
+      "$oid": "6162b7d311c8d8dc33a5bd02"
+    },
+    "name": "Masala Aalu",
+    "image": "Aalu.png",
+    "price": "71",
+    "size": "Full"
+  },{
+    "_id": {
+      "$oid": "6162b80f11c8d8dc33a5bd03"
+    },
+    "name": "Rice",
+    "image": "Rice-fried.png",
+    "price": "81",
+    "size": "Full"
+  },{ 
+    "_id": {
+      "$oid": "6162b85811c8d8dc33a5bd04"
+    },
+    "name": "Chapati",
+    "image": "Chapati.png",
+    "price": "10",
+    "type": "Butter"
+  },{ 
+    "_id": {
+      "$oid": "6162b8b911c8d8dc33a5bd05"
+    },
+    "name": "Pizza",
+    "image": "PizzaT.png",
+    "price": "139",
+    "size": "Tomato"
+  },{ 
+    "_id": {
+      "$oid": "6162b92411c8d8dc33a5bd06"
+    },
+    "name": "Burger",
+    "image": "Burger.png",
+    "price": "59",
+    "size": "aalu tiki"
+  },{ 
+    "_id": {
+      "$oid": "6162b96d11c8d8dc33a5bd07"
+    },
+    "name": "Paav Bhaji",
+    "image": "Paav-bhaji.png",
+    "price": "62",
+    "size": "Full"
+  },{ 
+    "_id": {
+      "$oid": "6162b9da11c8d8dc33a5bd08"
+    },
+    "name": "Sandwich",
+    "image": "Sandwich.png",
+    "price": "109",
+    "size": "veg cheese"
+  }
+]
